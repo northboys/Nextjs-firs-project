@@ -1,0 +1,52 @@
+{
+  "polyfillFiles": [
+    "static/chunks/polyfills-a98cee78eb8282e29fb6.js"
+  ],
+  "devFiles": [],
+  "ampDevFiles": [],
+  "lowPriorityFiles": [
+    "static/MDP30_HUzp7XQOx95jvUu/_buildManifest.js",
+    "static/MDP30_HUzp7XQOx95jvUu/_ssgManifest.js"
+  ],
+  "pages": {
+    "/": [
+      "static/chunks/main-ceab71ff4af1e6f937e6.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.9ec1f7868b3e9d138cdd.js",
+      "static/chunks/commons.cb82874e43d6dd0d0fae.js",
+      "static/chunks/109d79443bb6ebc39758f2fd9ed53e6be64451e3.756d3e6196568227934d.js",
+      "static/chunks/pages/index-787eb08006faa99a8b28.js"
+    ],
+    "/_app": [
+      "static/chunks/main-ceab71ff4af1e6f937e6.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.9ec1f7868b3e9d138cdd.js",
+      "static/chunks/commons.cb82874e43d6dd0d0fae.js",
+      "static/chunks/pages/_app-b608d4c51da3b47ce1a8.js"
+    ],
+    "/_error": [
+      "static/chunks/main-ceab71ff4af1e6f937e6.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.9ec1f7868b3e9d138cdd.js",
+      "static/chunks/commons.cb82874e43d6dd0d0fae.js",
+      "static/chunks/pages/_error-4c0e59626af2fe2052a1.js"
+    ],
+    "/blog": [
+      "static/chunks/main-ceab71ff4af1e6f937e6.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.9ec1f7868b3e9d138cdd.js",
+      "static/chunks/commons.cb82874e43d6dd0d0fae.js",
+      "static/chunks/109d79443bb6ebc39758f2fd9ed53e6be64451e3.756d3e6196568227934d.js",
+      "static/chunks/pages/blog-dd27b9f7f9e05374f75a.js"
+    ],
+    "/single": [
+      "static/chunks/main-ceab71ff4af1e6f937e6.js",
+      "static/chunks/webpack-e067438c4cf4ef2ef178.js",
+      "static/chunks/framework.9ec1f7868b3e9d138cdd.js",
+      "static/chunks/commons.cb82874e43d6dd0d0fae.js",
+      "static/chunks/109d79443bb6ebc39758f2fd9ed53e6be64451e3.756d3e6196568227934d.js",
+      "static/chunks/pages/single-9209ac0d50362cf371c6.js"
+    ]
+  },
+  "ampFirstPages": []
+}
